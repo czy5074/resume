@@ -6,3 +6,6 @@ C#, html, JavaScript
 
 # feature
 will support different languages like English, Spanish and chinese 
+
+# version
+bate 0.1
