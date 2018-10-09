@@ -1,5 +1,6 @@
 # resume
 my first resume template.
 
-#language 
+#language
+C#, html, JavaScript
 
